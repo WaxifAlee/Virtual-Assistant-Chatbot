@@ -35,11 +35,11 @@ def output(out):
     engine.runAndWait()
 
 
-user = "Huzaifa"
-assistant = "David"
+user = "Wasif Ali"
+assistant = "Lana Rohades"
 engine = pyttsx3.init()
 voices = engine.getProperty("voices")
-engine.setProperty("voice", voices[0].id)
+engine.setProperty("voice", voices[1].id)
 output(f"Hello this is {assistant}")
 
 

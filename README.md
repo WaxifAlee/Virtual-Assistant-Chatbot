@@ -20,13 +20,6 @@ Features:
 
 8.Jokes
 
-
-
-
-
-
-
-
 How to get started:
 
 Install python if not installed already
